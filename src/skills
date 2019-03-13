@@ -1,0 +1,100 @@
+Cleric
+History  - knowledge related to the history of a region and beyond - 10 - 1
+Insight - You can discern intent and decipher body language during social interactions - 11 - 3
+Perception - detect secret doors - 13 - 20
+Religion - gather knowledge about religious knowledge - 14 - 7
+overCleric
+Fighter
+Athletics - attempt physical activities that rely on muscular strength  - 2 - 7
+Endurance - push yourself beyond normal physical limits - 5 - 13
+Heal - recover from wounds or debilitating conditions - 8 - 15
+Intimidate - Make an Intimidate check to influence others through hostile actions - 12 - 17
+Streetwise - find out what’s going on, who the movers and shakers - 17 - 5
+overFighter
+Rogue
+Acrobatics - You can perform an acrobatic stunt - 1 - 4
+Athletics - attempt physical activities that rely on muscular strength  - 2 - 7
+Bluff  - You can make what’s false appear to be true - 4 - 12
+Dungeoneering - Make a Dungeoneering check to remember a useful bit of knowledge about an underground environment - 6 - 7
+Insight - You can discern intent and decipher body language during social interactions - 11 - 3
+Intimidate - Make an Intimidate check to influence others through hostile actions - 12 - 17
+Perception - detect secret doors - 13 - 20
+Stealth - Make a Stealth check to conceal yourself from enemies - 15 - 8
+overRogue
+Wizard
+Arcana - a knowledge type skill - 3 - 8
+History  - knowledge related to the history of a region and beyond - 10 - 1
+Insight - You can discern intent and decipher body language during social interactions - 11 - 3
+Religion - gather knowledge about religious knowledge - 14 - 7
+overWizard
+Barbarian
+Acrobatics - You can perform an acrobatic stunt - 1 - 4
+Athletics - attempt physical activities that rely on muscular strength  - 2 - 7
+Endurance - push yourself beyond normal physical limits - 5 - 13
+Heal - recover from wounds or debilitating conditions - 8 - 15
+Intimidate - Make an Intimidate check to influence others through hostile actions - 12 - 17
+Nature  - gather knowledge about the natural world - 9 - 19
+Perception - detect secret doors - 13 - 20
+overBarbarian
+Bard
+Acrobatics - You can perform an acrobatic stunt - 1 - 4
+Arcana - a knowledge type skill - 3 - 8
+Athletics - attempt physical activities that rely on muscular strength  - 2 - 7
+Bluff  - You can make what’s false appear to be true - 4 - 12
+Diplomacy  - You can influence others with your tact, subtlety, and social grace - 7  - 5
+Dungeoneering - Make a Dungeoneering check to remember a useful bit of knowledge about an underground environment - 6 - 7
+Heal - recover from wounds or debilitating conditions - 8 - 15
+History  - knowledge related to the history of a region and beyond - 10 - 1
+Insight - You can discern intent and decipher body language during social interactions - 11 - 3
+Intimidate - Make an Intimidate check to influence others through hostile actions - 12 - 17
+Nature  - gather knowledge about the natural world - 9 - 19
+Perception - detect secret doors - 13 - 20
+Religion - gather knowledge about religious knowledge - 14 - 7
+Streetwise - find out what’s going on, who the movers and shakers - 17 - 5
+overBard
+Monk
+Acrobatics - You can perform an acrobatic stunt - 1 - 4
+Athletics - attempt physical activities that rely on muscular strength  - 2 - 7
+History  - knowledge related to the history of a region and beyond - 10 - 1
+Insight - You can discern intent and decipher body language during social interactions - 11 - 3
+Religion - gather knowledge about religious knowledge - 14 - 7
+Stealth - Make a Stealth check to conceal yourself from enemies - 15 - 8
+overMonk
+Paladin
+Athletics - attempt physical activities that rely on muscular strength  - 2 - 7
+Insight - You can discern intent and decipher body language during social interactions - 11 - 3
+Intimidate - Make an Intimidate check to influence others through hostile actions - 12 - 17
+Religion - gather knowledge about religious knowledge - 14 - 7
+overPaladin
+Ranger
+Acrobatics - You can perform an acrobatic stunt - 1 - 4
+Athletics - attempt physical activities that rely on muscular strength  - 2 - 7
+Dungeoneering - Make a Dungeoneering check to remember a useful bit of knowledge about an underground environment - 6 - 7
+Endurance - push yourself beyond normal physical limits - 5 - 13
+Heal - recover from wounds or debilitating conditions - 8 - 15
+Nature  - gather knowledge about the natural world - 9 - 19
+Perception - detect secret doors - 13 - 20
+Stealth - Make a Stealth check to conceal yourself from enemies - 15 - 8
+overRanger
+Sorcerer
+Arcana - a knowledge type skill - 3 - 8
+Insight - You can discern intent and decipher body language during social interactions - 11 - 3
+Intimidate - Make an Intimidate check to influence others through hostile actions - 12 - 17
+Religion - gather knowledge about religious knowledge - 14 - 7
+Thievery - perform tasks that require nerves of steel and a steady hand  - 16 - 2
+overSorcerer
+Warlock
+Athletics - attempt physical activities that rely on muscular strength  - 2 - 7
+Diplomacy  - You can influence others with your tact, subtlety, and social grace - 7  - 5
+Endurance - push yourself beyond normal physical limits - 5 - 13
+Heal - recover from wounds or debilitating conditions - 8 - 15
+History  - knowledge related to the history of a region and beyond - 10 - 1
+Intimidate - Make an Intimidate check to influence others through hostile actions - 12 - 17
+overWarlock
+Druid
+Arcana - a knowledge type skill - 3 - 8
+Insight - You can discern intent and decipher body language during social interactions - 11 - 3
+Nature  - gather knowledge about the natural world - 9 - 19
+Perception - detect secret doors - 13 - 20
+Religion - gather knowledge about religious knowledge - 14 - 7
+overDruid
